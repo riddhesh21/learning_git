@@ -1,0 +1,1 @@
+head is pointer which moves forward to evey commit
